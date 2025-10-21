@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\julij\OneDrive\Radna površina\strukture labovi25\2. zadatak\2. zadatak\Source.c(86,12): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\julij\OneDrive\Radna površina\strukture labovi25\2. zadatak\2. zadatak\Source.c(114,24): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\julij\OneDrive\Radna površina\strukture labovi25\2. zadatak\2. zadatak\Source.c(117,24): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  2. zadatak.vcxproj -> C:\Users\julij\OneDrive\Radna površina\strukture labovi25\2. zadatak\x64\Debug\2. zadatak.exe
