@@ -123,7 +123,6 @@ int main() {
             lista = brisiIzListe(lista, prezimePretraga);
             break;
         case 0:
-            // Oslobodi memoriju
             while (lista) {
                 Node* temp = lista;
                 lista = lista->next;

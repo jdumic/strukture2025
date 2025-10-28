@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,25 +25,25 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\julij\\OneDrive\\Radna povr\u0161ina\\strukture labovi25\\2. zadatak\\2. zadatak\\Source.c",
-              "RelativeDocumentMoniker": "2. zadatak\\Source.c",
-              "ToolTip": "C:\\Users\\julij\\OneDrive\\Radna povr\u0161ina\\strukture labovi25\\2. zadatak\\2. zadatak\\Source.c",
-              "RelativeToolTip": "2. zadatak\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-21T12:54:37.438Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\julij\\OneDrive\\Radna povr\u0161ina\\strukture labovi25\\2. zadatak\\2. zadatak\\Source.c",
+              "RelativeDocumentMoniker": "2. zadatak\\Source.c",
+              "ToolTip": "C:\\Users\\julij\\OneDrive\\Radna povr\u0161ina\\strukture labovi25\\2. zadatak\\2. zadatak\\Source.c*",
+              "RelativeToolTip": "2. zadatak\\Source.c*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-21T12:54:37.438Z",
+              "EditorCaption": ""
             }
           ]
         }
